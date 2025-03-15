@@ -14,4 +14,4 @@ Welcome to the C Programming Projects repository! This repository is dedicated t
    - Team Members
    - Project Description
    - Instructions to run the project
-   - Any additional information or notes
+   - Any additional information or notes (Like PRESENTATION and PROPOSAL if possible)
