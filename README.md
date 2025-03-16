@@ -14,4 +14,5 @@ Welcome to the C Programming Projects repository! This repository is dedicated t
    - Team Members
    - Project Description
    - Instructions to run the project
-   - Any additional information or notes
+   - Any additional information or notes (Like PRESENTATION and PROPOSAL if possible)
+8. After uploading it to your Github account, send a pull request to merge your repo with the origin repo of ACES.
