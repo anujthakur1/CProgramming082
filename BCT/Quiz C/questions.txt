@@ -1,0 +1,840 @@
+﻿What is the full form of Css ?
+Cascading style sheets
+Casio style system
+Cascading system software 
+Crack system software 
+A
+30
+What does HTML stand for?
+Hyper Text Markup Language
+High Tech Modern Language
+Hyperlinks and Text Markup Language
+Home Tool Markup Language
+A
+30
+Which of the following is a programming language?
+HTML
+CSS
+Python
+XML
+ C
+30
+What is the capital of Nepal?
+Kathmandu
+Pokhara
+Lalitpur
+Bhaktapur
+A
+30
+Which planet is known as the Red Planet?
+Earth
+Venus
+Mars
+Jupiter
+ C
+30
+What does CPU stand for?
+Central Processing Unit
+Central Program Unit
+Central Power Unit
+Central Process Unit
+A
+30
+Which of the following is a type of software?
+Hardware
+Mouse
+Operating System
+Keyboard
+C
+30
+Who invented the light bulb?
+Nikola Tesla
+Thomas Edison
+Alexander Graham Bell
+Albert Einstein
+ B
+30
+Which gas do plants absorb during photosynthesis?
+Oxygen
+Nitrogen
+Carbon Dioxide
+Hydrogen
+C
+30
+Which is the longest river in the world?
+Amazon River
+Nile River
+Yangtze River
+Mississippi River
+B
+30
+What is the chemical symbol for Gold?
+Au
+Ag
+Pb
+Fe
+ A
+30
+What is the currency of Japan?
+Dollar
+Pound
+Yen
+Euro
+C
+30
+Which of the following is an input device?
+Monitor
+Printer
+Keyboard
+Speaker
+ C
+30
+Which organ pumps blood in the human body?
+Liver
+Lungs
+Heart
+Kidney
+C
+30
+Who is known as the "Father of Computers"?
+Alan Turing
+Charles Babbage
+Bill Gates
+Steve Jobs
+B
+30
+Which is the largest continent?
+Europe
+Africa
+Asia
+Australia
+ C
+30
+What is the SI unit of force?
+Newton
+Joule
+Watt
+Pascal
+A
+30
+Which programming language is used for Android app development?
+Swift
+Kotlin
+C#
+Ruby
+ B
+30
+Which metal is the best conductor of electricity?
+Iron
+Copper
+Silver
+Gold
+C
+30
+What does RAM stand for?
+Read Access Memory
+Random Access Memory
+Rapid Application Module
+Remote Access Machine
+B
+30
+Which country is famous for the Eiffel Tower?
+Italy
+France
+Germany
+Spain
+ B
+30
+Who wrote the novel Pride and Prejudice?
+Jane Austen
+Emily Brontë
+Mark Twain
+Charles Dickens
+ A
+30
+Which is the smallest unit of data in a computer?
+Bit
+Byte
+Kilobyte
+Megabyte
+A
+30
+Which of the following is a search engine?
+Facebook
+Google
+Instagram
+WhatsApp
+ B
+30
+HWhat is the capital of India?
+Mumbai
+New Delhi
+Bangalore
+Kolkata
+B
+30
+Which ocean is the largest?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+C
+30
+Which of the following is a renewable energy source?
+Coal
+Petroleum
+Solar
+Natural Gas
+C
+30
+What is the freezing point of water in Celsius?
+0°C
+32°C
+100°C
+-10°C
+A
+30
+Which device is used to measure temperature?
+Barometer
+Thermometer
+Hygrometer
+Altimeter
+B
+30
+What does URL stand for?
+Universal Resource Locator
+Uniform Reference Link
+Unique Retrieval Link
+Universal Retrieval Locator
+A
+30
+ What is the full form of CPU?
+Central Processing Unit
+Computer Processing Unit
+Central Peripheral Unit
+Core Processing Utility
+A
+30
+Which of the following is a programming language?
+HTML
+CSS
+Java
+XML
+C
+30
+What does HTTP stand for?
+Hypertext Transfer Protocol
+High Transmission Text Protocol
+Hyperlink Transport Protocol
+Home Text Transfer Process
+A
+30
+Which company developed Windows OS?
+Apple
+Google
+Microsoft
+IBM
+C
+30
+ What does RAM stand for?
+Random Access Memory
+Readily Available Memory
+Remote Access Module
+Rapid Application Management
+A
+30
+What is the capital of Japan?
+Beijing
+Seoul
+Tokyo
+Bangkok
+C
+30
+What is the largest planet in our solar system?
+Earth
+Mars
+Jupiter
+Saturn
+C
+30
+ Who is known as the father of computers?
+Alan Turing
+Charles Babbage
+Steve Jobs
+Bill Gates
+B
+30
+What is the chemical symbol for gold?
+Ag
+Au
+Pb
+Fe
+B
+30
+ Which gas do plants use for photosynthesis?
+Oxygen
+Carbon Dioxide
+Nitrogen
+Hydrogen
+B
+30
+What is the boiling point of water in Celsius?
+50°C
+75°C
+100°C
+125°C
+C
+30
+Who discovered gravity?
+Albert Einstein
+Isaac Newton
+Galileo Galilei
+Nikola Tesla
+B
+30
+Which continent is the Sahara Desert located in?
+Asia
+Africa
+South America
+Australia
+B
+30
+What is the currency of the UK?
+Euro
+Dollar
+Pound
+Yen
+C
+30
+Which is the smallest bone in the human body?
+Femur
+Stapes
+Tibia
+Humerus
+B
+30
+What does WWW stand for?
+World Web Wide
+Wide Web World
+World Wide Web
+Web World Wide
+C
+30
+What is the powerhouse of the cell?
+Nucleus
+Mitochondria
+Ribosome
+Chloroplast
+B
+30
+What is the square root of 64?
+6
+7
+8
+9
+C
+30
+ What is the largest ocean on Earth?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+C
+30
+Who painted the Mona Lisa?
+Vincent van Gogh
+Pablo Picasso
+Leonardo da Vinci
+Claude Monet
+C
+30
+What is the national flower of Japan?
+Rose
+Tulip
+Cherry Blossom
+Lotus
+C
+30
+ What does USB stand for?
+Universal Serial Bus
+Universal System Board
+Unified Serial Board
+Ultimate Speed Boost
+A
+30
+What is the capital of Australia?
+Sydney
+Melbourne
+Canberra
+Perth
+C
+30
+ How many sides does a hexagon have?
+4
+5
+6
+8
+C
+30
+ Which instrument is used to measure temperature?
+Barometer
+Thermometer
+Hygrometer
+Anemometer
+B
+30
+Who was the first person to step on the moon?
+Neil Armstrong
+Buzz Aldrin
+Michael Collins
+Yuri Gagarin
+A
+30
+What is the chemical formula of methane?
+CO2
+H2O
+CH4
+O2
+C
+30
+What is the largest mammal on Earth?
+Elephant
+Blue Whale
+Giraffe
+Hippopotamus
+B
+30
+ What is the national bird of the USA?
+Peacock
+Eagle
+Sparrow
+Owl
+B
+30
+What is the process by which plants make their food?
+Respiration
+Photosynthesis
+Digestion
+Fermentation
+B
+30
+ What does PDF stand for?
+Portable Document Format
+Printed Data File
+Program Data File
+Portable Digital File
+A
+30
+What is the hardest natural substance on Earth?
+Iron
+Diamond
+Gold
+Quartz
+B
+30
+ What is the main gas found in the Earth's atmosphere?
+Oxygen
+Carbon Dioxide
+Nitrogen
+Hydrogen
+C
+30
+ How many continents are there on Earth?
+5
+6
+7
+8
+C
+30
+ What is the name of the fairy tale character who had a long nose when he lied?
+Pinocchio
+Peter Pan
+Cinderella
+Snow White
+A
+30
+ What is the symbol for Iron in the periodic table?
+Fe
+Ir
+In
+Io
+A
+30
+Which blood type is known as the universal donor?
+A
+B
+AB
+O
+D
+30
+ What is the capital of Canada?
+Ottawa
+Toronto
+Vancouver
+Montreal
+A
+30
+Which country is known as the Land of the Rising Sun?
+China
+Japan
+India
+South Korea
+B
+30
+How many chambers does the human heart have?
+2
+3
+4
+5
+C
+30
+What is the capital of Nepal?
+Kathmandu
+Pokhara
+Lalitpur
+Bhaktapur
+A
+30
+ Which mountain is the highest in Nepal?
+Mount Everest
+Kanchenjunga
+Lhotse
+Makalu
+A
+30
+What river is known as the "Sorrow of Bihar"?
+Koshi
+Gandaki
+Karnali
+Bagmati
+A
+30
+Who was the first king of unified Nepal?
+Prithvi Narayan Shah
+Tribhuvan Bir Bikram Shah
+Gyanendra Shah
+Birendra Bir Bikram Shah
+A
+30
+What is the official language of Nepal?
+Nepali
+English
+Hindi
+Maithili
+A
+30
+Which year did Nepal become a republic?
+2008
+2006
+2010
+1990
+A
+30
+What is the currency of Nepal?
+Nepali Rupee
+Indian Rupee
+US Dollar
+Euro
+A
+30
+Who is known as the "Father of Modern Nepal"?
+Jung Bahadur Rana
+Prithvi Narayan Shah
+BP Koirala
+King Tribhuvan
+A
+30
+Which is the longest river in Nepal?
+Ghaghara
+Karnali
+Koshi
+Gandaki
+A
+30
+What is the main religion practiced in Nepal?
+Hinduism
+Buddhism
+Islam
+Christianity
+A
+30
+ In which year did the first democratic movement take place in Nepal?
+1990
+2006
+1951
+1989
+A
+30
+ Which city is known as the "Gateway to the Himalayas"?
+Kathmandu
+Pokhara
+Lukla
+Dharan
+A
+30
+Who was the first president of Nepal?
+Ram Baran Yadav
+Bidhya Devi Bhandari
+Gyanendra Shah
+Pushpa Kamal Dahal
+A
+30
+What is the name of the largest national park in Nepal?
+Chitwan National Park
+Sagarmatha National Park
+Langtang National Park
+Bardia National Park
+A
+30
+ Which ethnic group is the largest in Nepal?
+Chhetri
+Brahmin
+Magar
+Tharu
+A
+30
+ What is the primary export of Nepal?
+Carpets
+Tea
+Spices
+Coffee
+A
+30
+Who is the national hero of Nepal, known for his bravery against the British?
+Bhakti Thapa
+Amar Singh Thapa
+Gajaraj Mishra
+King Tribhuvan
+A
+30
+Which UNESCO World Heritage Site is located in Kathmandu?
+Pashupatinath Temple
+Bhaktapur Durbar Square
+Chitwan National Park
+Lumbini
+A
+30
+ What is the highest mountain pass in Nepal?
+Thorong La
+Renjo La
+Cho La
+Kanga La
+A
+30
+Which district is known for its apple farming in Nepal?
+Mustang
+Manang
+Kaski
+Dhankuta
+A
+30
+What is the name of the famous Buddhist pilgrimage site in Nepal?
+Lumbini
+Swayambhunath
+Boudhanath
+Gosaikunda
+A
+30
+ Which ancient city in Nepal is known for its rich Newar culture?
+Bhaktapur
+Kathmandu
+Lalitpur
+Janakpur
+A
+30
+In which part of Nepal is the Terai region located?
+Southern
+Northern
+Eastern
+Western
+A
+30
+What is the largest lake in Nepal?
+Rara Lake
+Phewa Lake
+Begnas Lake
+Gosaikunda Lake
+A
+30
+Which festival is known as the festival of lights in Nepal?
+Dashain
+Tihar
+Holi
+Chhath
+A
+30
+ What is the main agricultural product of Nepal?
+Rice
+Wheat
+Maize
+Barley
+A
+30
+Which mountain range runs along the northern border of Nepal?
+Himalayas
+Karakoram
+Andes
+Rockies
+A
+30
+Who wrote the national anthem of Nepal?
+Amber Gurung
+Pradeep Kumar Rai
+Phiroj Shyangden
+Yugal Gurung
+A
+30
+29. What is the official name of the Nepalese parliament?
+Pratinidhi Sabha
+Rastriya Sabha
+Lok Sabha
+Rajya Sabha
+A
+30
+What is the main reason for tourism in Nepal?
+Adventure sports
+Cultural heritage
+Natural beauty
+All of the above
+A
+30
+Which city is famous for its traditional Newari cuisine?
+Bhaktapur
+Kathmandu
+Patan
+Pokhara
+A
+30
+What is the main source of energy in Nepal?
+Hydropower
+Solar power
+Wind power
+Fossil fuels
+A
+30
+Who was the first female president of Nepal?
+Bidhya Devi Bhandari
+Sushil Koirala
+Pushpa Kamal Dahal
+Sher Bahadur Deuba
+A
+30
+What is the official symbol of Nepal?
+Flag
+Coat of arms
+National flower
+National bird
+A
+30
+Which is the smallest district of Nepal by area?
+Bhaktapur
+Kathmandu
+Lalitpur
+Rautahat
+A
+30
+Which river is considered sacred in Hinduism in Nepal?
+Bagmati
+Koshi
+Gandaki
+Karnali
+A
+30
+ What is the main purpose of the Sagarmatha National Park?
+Wildlife conservation
+Cultural preservation
+Tourism promotion
+All of the above
+A
+30
+Which historic site in Nepal is known as the birthplace of Lord Buddha?
+Lumbini
+Bodh Gaya
+Sarnath
+Kapilavastu
+A
+30
+What is the highest lake in Nepal?
+Gosaikunda
+Rara
+Phewa
+Tilicho
+A
+30
+What is the traditional dress of Nepali women called?
+Gunyo Cholo
+Daura Suruwal
+Cholo
+Saari
+A
+30
+Who is the goddess worshiped during the Dashain festival?
+Durga
+Lakshmi
+Saraswati
+Kali
+A
+30
+What is the name of the festival celebrated to mark the arrival of the New Year in Nepal?
+Dashain
+Tihar
+Nepali New Year
+Holi
+A
+30
+ Which animal is considered sacred in Hinduism and is protected in Nepal?
+Cow
+Elephant
+Tiger
+Rhino
+A
+30
+ What is the main import of Nepal?
+Petroleum products
+Electronics
+Machinery
+Food grains
+A
+30
+Which country borders Nepal to the north?
+India
+China
+Bhutan
+Bangladesh
+A
+30
+What is the main characteristic of the Terai region in Nepal?
+Plains
+Mountains
+Valleys
+Hills
+A
+30
+ Who is the patron deity of the Kathmandu Valley?
+Bhairav
+Shiva
+Vishnu
+Durga
+A
+30
+Which is the highest point of land in Nepal?
+Mount Everest
+Kanchenjunga
+Lhotse
+Erc
+A
+30
+Velocity of sound is highest in 
+Solid 
+Liquid 
+Gas
+Air 
+A
+30
+Path of electron in electric field 
+Parabolic
+Linear 
+Elliptical 
+Hyperbolic 
+A 
+30
