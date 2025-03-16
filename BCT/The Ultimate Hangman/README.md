@@ -4,10 +4,6 @@
 
 ## Introduction
 
- 
-
-
-
 This C program is a Hangman Game that supports both single-player and multiplayer modes. The game randomly selects a word from a file (words.txt) in single-player mode or allows Player 1 to input a word in multiplayer mode. The player(s) attempt to guess the word letter by letter or by guessing the entire word. The program keeps track of incorrect guesses and displays a Hangman ASCII art as an indication of remaining attempts. The game ends when the player guesses the word correctly or runs out of attempts. Additionally, users can add new words to the words file for an expanded word pool.
 
 ## Team Members
