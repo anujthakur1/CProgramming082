@@ -1,4 +1,5 @@
 # **Quiz C**  
+![Screenshot 2025-03-10 173742](https://github.com/user-attachments/assets/0c3e31be-3821-4eda-b607-ac5a9f4001fb)
 
 
 ## **About the Project**  
