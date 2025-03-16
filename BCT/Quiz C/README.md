@@ -1,5 +1,7 @@
 # **Quiz C**  
 
+![Screenshot 2025-03-10 173742](https://github.com/user-attachments/assets/4d54f787-4f0e-4f08-9f03-3442164d336a)
+
 
 ## **About the Project**  
 **Quiz C** is an interactive and engaging quiz game designed to test and enhance knowledge through a series of timed questions. With exciting lifelines and a structured reward system, this game brings the thrill of a quiz competition right to your screen.  
@@ -13,7 +15,7 @@
 
 ## **Team Elite**  
 Meet the brilliant minds behind **Quiz C**:  
-- **Anuj Kumar Thakur**  (Team Leader)
+- **Anuj Kumar Thakur**  **(Team Leader)**
 - **Bikash Bist**  
 - **Aaditya Kumar Karn**  
 - **Jigyasa Bhattarai**  
