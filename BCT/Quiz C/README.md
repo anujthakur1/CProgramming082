@@ -14,7 +14,7 @@
 
 ## **Team Elite**  
 Meet the brilliant minds behind **Quiz C**:  
-- **Anuj Kumar Thakur**  
+- **Anuj Kumar Thakur** **(Group Leaader)**
 - **Bikash Bist**  
 - **Aaditya Kumar Karn**  
 - **Jigyasa Bhattarai**  
